@@ -1,4 +1,4 @@
 StudentId : 2413180015
 StudentName : Budsarakam Singhanart
-Date : 11/25/2024
-Topic : Display, Variable and Input
+Date : 12/09/2024
+Topic : string method
