@@ -1,4 +1,4 @@
 StudentId : 2413180015
 StudentName : Budsarakam Singhanart
-Date : 12/09/2024
-Topic : string method
+Date : 12/16/2024
+Topic : method
