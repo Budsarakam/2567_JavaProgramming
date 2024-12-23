@@ -1,4 +1,4 @@
 StudentId : 2413180015
 StudentName : Budsarakam Singhanart
-Date : 12/16/2024
-Topic : method
+Date : 12/26/2024
+Topic : Array and Array Method
