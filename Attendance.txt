@@ -1,4 +1,4 @@
 StudentId : 2413180015
 StudentName : Budsarakam Singhanart
-Date : 01/13/2024
-Topic : Class and Object
+Date : 01/20/2024
+Topic : Encapsulation Concept and Array Object
